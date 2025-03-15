@@ -1,0 +1,2 @@
+D:/Programlama/Flutter/uygulama/android/app/.cxx/Debug/e39572x3/x86/CMakeFiles/edit_cache.dir
+D:/Programlama/Flutter/uygulama/android/app/.cxx/Debug/e39572x3/x86/CMakeFiles/rebuild_cache.dir
